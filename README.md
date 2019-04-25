@@ -1,11 +1,13 @@
-## You've got the Code for Object Oriented Programming (Course 1). Yeehaw!
+## Welcome to my PHP OOP Study All the progress on the courses and learning will be all logged here.
 
-Hi there! Inside this code download you'll find the following things:
+###Here keeps the links of all the courses related to that study.
 
-* A `start/` directory: how the project looked at the *start* of the tutorial
+* First Course Part From SymfonyCasts `https://symfonycasts.com/screencast/oo`
+* Second Course Part From SymfonyCasts `https://symfonycasts.com/screencast/oo-ep2`
 
-* A `finish/` directory: how the project looked after we did all the cool coding
+### Some commands That you may use while studying. 
+```
 
-In each directory, you'll find more details about how to setup the project.
-But if you have any questions, just post a comment on the course page and
-ask!
+git add -A && git commit -m "intended commit" && git push ///// add all commit & push
+
+```
