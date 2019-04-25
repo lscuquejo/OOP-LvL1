@@ -8,6 +8,8 @@
 ### Some commands That you may use while studying. 
 ```
 
-git add -A && git commit -m "intended commit" && git push ///// add all commit & push
+git add -A && git commit -m "intended commit" && git push ///// add all commit & push .
+
+php -S localhost:8000                                     ///// runs local host server.
 
 ```
