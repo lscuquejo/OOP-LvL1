@@ -1,8 +1,6 @@
 <?php
 
-namespace Service;
-
-class JsonFileShipStorage implements ShipStorageInterface
+class JsonFileShipStorage
 {
     private $filename;
 
